@@ -1,0 +1,70 @@
+img { margin:auto; display:block; margin: auto}
+.contenedor_batman{background-color: #E5E5E5; height: 189px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    }
+    .gris_oscuro {background-color: #C4C4C4; 
+height: 60px;
+width: 100%;
+left: 0px;
+top: 188px;
+border-radius: 0px}
+h1{position: absolute;
+    width: 1013px;
+    height: 30px;
+    left: 213px;
+    top: 203px;
+    
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    /* identical to box height, or 30px */
+    
+    font-feature-settings: 'cpsp' on;
+    
+    color: #005677; text-align: center;}
+h2{    
+    background: #C4C4C4;
+    
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    
+    font-feature-settings: 'cpsp' on;
+    
+    color: #005677;
+    }
+.titulo_seccion{
+    
+    font-family: Times New Roman;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 84.69%;
+    
+    
+    color: #000000;
+    }
+.contenedor_footer{position: absolute;
+        width: 100%;
+        
+        background: #005677}
+p{font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%; text-align: center;
+      
+    
+    color: #FFFFFF}
+footer{position: absolute;
+    width: 100%;
+    }
+    img { margin:auto; display:block; margin: auto}
